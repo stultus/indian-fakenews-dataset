@@ -1,1 +1,2 @@
 jupyter==1.0.0
+Scrapy==2.1.0
